@@ -31,7 +31,8 @@ Earn the **required number of lives** to win the game.
 ## 🏆 Win / Lose Conditions
 - **Win:** Reach the set number of lives.  
 - **Lose:** Lives drop to **0**.
-
+## 🦋 Demo 
+<https://scratch.mit.edu/projects/1212697223/>
 ---
 
 ## ✨ Features
